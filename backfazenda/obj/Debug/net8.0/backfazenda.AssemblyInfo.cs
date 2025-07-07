@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backfazenda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b3ff691ff7965bd6a605057bd4c9f3f8cdf8e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("backfazenda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backfazenda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
